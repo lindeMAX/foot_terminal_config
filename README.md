@@ -4,10 +4,11 @@
 
 ## Installation ##
 
-Copy this file to *~/.config/foot/* and restart the foot terminal
+Copy *foot.ini* to *~/.config/foot/* and start/restart the foot terminal.
 
-## Colors ##
+## Themes ##
 
-The default color configuration is *Gruvbox*.
+The default color theme is *Gruvbox*.
 
-There are additional color configuration examples under *colors*.
+There are additional color configuration examples under *themes*.
+Feel free the add yout own themes and send me a pull request.
